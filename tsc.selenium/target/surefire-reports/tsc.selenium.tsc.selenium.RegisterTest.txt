@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: tsc.selenium.tsc.selenium.RegisterTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 146.77 sec <<< FAILURE! - in tsc.selenium.tsc.selenium.RegisterTest
+testregisSucc(tsc.selenium.tsc.selenium.RegisterTest)  Time elapsed: 27.759 sec  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at tsc.selenium.tsc.selenium.RegisterTest.testregisSucc(RegisterTest.java:58)
+
